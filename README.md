@@ -5,6 +5,8 @@
 https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/  
 https://www.youtube.com/watch?v=ffYUfAqEamY&ab_channel=SandipM 
 ## What is a pid and a ppid  
+https://www.geeksforgeeks.org/processes-in-linuxunix/  
+https://www.geeksforgeeks.org/difference-between-process-parent-process-and-child-process/  
 ## How to manipulate the environment of the current process
 ## What is the difference between a function and a system call
 https://www.youtube.com/watch?v=lhToWeuWWfw&ab_channel=NesoAcademy  
